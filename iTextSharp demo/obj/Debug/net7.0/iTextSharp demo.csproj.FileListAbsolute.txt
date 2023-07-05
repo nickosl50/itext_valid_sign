@@ -1,0 +1,76 @@
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.exe
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.deps.json
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.runtimeconfig.json
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.pdb
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.forms.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.io.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.layout.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.sign.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.svg.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.commons.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.csproj.AssemblyReference.cache
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.AssemblyInfoInputs.cache
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.AssemblyInfo.cs
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.csproj.CoreCompileInputs.cache
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.csproj.CopyComplete
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\refint\iTextSharp demo.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.pdb
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.genruntimeconfig.cache
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\ref\iTextSharp demo.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.bouncy-castle-adapter.dll
+C:\Users\gkintzonidis\source\repos\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.exe
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.deps.json
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.runtimeconfig.json
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\iTextSharp demo.pdb
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.barcodes.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.forms.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.io.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.kernel.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.layout.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.pdfa.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.sign.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.svg.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.bouncy-castle-adapter.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\itext.commons.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.csproj.AssemblyReference.cache
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.AssemblyInfoInputs.cache
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.AssemblyInfo.cs
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.csproj.CoreCompileInputs.cache
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.csproj.CopyComplete
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\refint\iTextSharp demo.dll
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.pdb
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\iTextSharp demo.genruntimeconfig.cache
+C:\temp\iTextSharp demo\iTextSharp demo\iTextSharp demo\obj\Debug\net7.0\ref\iTextSharp demo.dll
